@@ -1,0 +1,12 @@
+/Users/mi101310/Projects/tekitou/tekitou/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mi101310/Projects/tekitou/tekitou/bin/tekitou.dll.mdb
+/Users/mi101310/Projects/tekitou/tekitou/bin/tekitou.dll
+/Users/mi101310/Projects/tekitou/tekitou/obj/Debug/tekitou.dll
+/Users/mi101310/Projects/tekitou/tekitou/obj/Debug/tekitou.dll.mdb
+/Users/mi101310/Projects/tekitou/tekitou/bin/Microsoft.Web.Infrastructure.dll
+/Users/mi101310/Projects/tekitou/tekitou/bin/System.Web.Razor.dll
+/Users/mi101310/Projects/tekitou/tekitou/bin/System.Web.Helpers.dll
+/Users/mi101310/Projects/tekitou/tekitou/bin/System.Web.WebPages.dll
+/Users/mi101310/Projects/tekitou/tekitou/bin/System.Web.WebPages.Deployment.dll
+/Users/mi101310/Projects/tekitou/tekitou/bin/System.Web.WebPages.Razor.dll
+/Users/mi101310/Projects/tekitou/tekitou/bin/System.Web.Mvc.dll
