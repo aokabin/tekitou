@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Mvc.Ajax;
+using Microsoft.CSharp;
 
 namespace tekitou.Controllers
 {
@@ -21,9 +22,15 @@ namespace tekitou.Controllers
 		}
 
 		public string Test () {
-			string hoge = "my name is kodai.";
-//			return View ();
-			return hoge;
+			string url = "http://ec2-54-64-79-127.ap-northeast-1.compute.amazonaws.com:8080/Home/GameStart";
+			return url;
+		}
+
+		public string GameStart () {
+			System.Diagnostics.Process.Start ("/root/test.sh");
+			string url = "http://ec2-54-64-79-127.ap-northeast-1.compute.amazonaws.com:8080/";
+			return url;
+
 		}
 
 		[HttpPost]

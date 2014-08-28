@@ -1,12 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="tekitou/Global.asax.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tekitou/Controllers/HomeController.cs">
     <Files>
-      <File FileName="tekitou/Controllers/HomeController.cs" Line="2" Column="2" />
+      <File FileName="tekitou/Controllers/HomeController.cs" Line="4" Column="4" />
       <File FileName="tekitou/Views/Home/Index.aspx" Line="1" Column="1" />
-      <File FileName="tekitou/Views/Home/Test.aspx" Line="8" Column="8" />
+      <File FileName="tekitou/Views/Home/Test.aspx" Line="1" Column="1" />
       <File FileName="tekitou/Web.config" Line="1" Column="1" />
-      <File FileName="tekitou/Views/Web.config" Line="1" Column="1" />
+      <File FileName="tekitou/Views/Web.config" Line="200" Column="200" />
       <File FileName="tekitou/Global.asax" Line="1" Column="1" />
       <File FileName="tekitou/packages.config" Line="1" Column="1" />
       <File FileName="tekitou/Global.asax.cs" Line="1" Column="1" />
