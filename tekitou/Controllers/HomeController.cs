@@ -27,7 +27,7 @@ namespace tekitou.Controllers
 		}
 
 		public string GameStart () {
-			System.Diagnostics.Process.Start ("/root/test.sh");
+			System.Diagnostics.Process.Start ("test.sh");
 			string url = "http://ec2-54-64-79-127.ap-northeast-1.compute.amazonaws.com:8080/";
 			return url;
 
